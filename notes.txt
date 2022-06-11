@@ -1,0 +1,13 @@
+NextJS;
+ReactJS;
+next - auth;
+firebase;
+useRouter();
+React-Redux:  
+            reducer, 
+            dispatch- To call an action nd pass from components to basketSlice.
+            selector - To pull the data from basketSlice to our components.
+            reduce - To calculate total in checkout
+Stripe, Stripe CLI
+Axios
+Micro, Firebase Admin
