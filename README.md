@@ -2,7 +2,7 @@
 
 [Live Demo](https://amazon-2-0-boykng0k8-harshitsinh222.vercel.app/)
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 # Installation Steps
 
